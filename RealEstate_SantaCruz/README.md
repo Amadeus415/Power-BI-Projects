@@ -3,7 +3,7 @@
 ## Overview
 This Real Estate Dashboard is a visual tool that allows users to explore real estate listings in Santa Cruz, CA, and surrounding areas. The data is pulled from Zillow using the browser's Google Inspect tool. The dashboard offers several filters and visualizations to provide an interactive and dynamic experience for analyzing property listings based on price, bed count, bath count, and more.
 
-![Real Estate Dashboard]([https://github.com/Amadeus415/Power-BI-Projects/blob/main/RealEstate_SantaCruz/Screenshot%202024-09-05%20172152.png])
+![Real Estate Dashboard]([https://raw.githubusercontent.com/Amadeus415/Power-BI-Projects/main/RealEstate_SantaCruz/Screenshot%202024-09-05%20172152.png])
 
 ## Features
 - **Price Range Slider**: Allows users to filter listings by a custom price range.
